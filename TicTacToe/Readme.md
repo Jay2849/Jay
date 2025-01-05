@@ -1,7 +1,8 @@
 # Tic-Tac-Toe Game
 A simple Tic-Tac-Toe game implemented in Python using Pygame for graphics and pyttsx3 for text-to-speech functionality. This game allows two players to compete against each other in a classic 3x3 grid format.
 
-![Screenshot (3)]"C:\Users\jayn7\Pictures\Screenshots\Screenshot (4).png"
+![Screenshot (4)](https://github.com/user-attachments/assets/7fa5db61-c8ec-43a5-94f3-ad735bdd83a6)
+
 
 ## Features
 - **Two-player mode**: Play against a friend.
